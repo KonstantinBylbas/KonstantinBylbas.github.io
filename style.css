@@ -1,0 +1,46 @@
+.name{
+    color:red;
+    text-align: right;
+}
+.VK{
+    color: blue;
+}
+.mail{
+    color: lime;
+}
+.ua{
+    color: blue;
+    float: left;
+}
+.ua span{
+    color:yellow;
+}
+.name span{
+    color:lime;
+}
+.picture{
+    width: 42%;
+    height: 42%;
+    float: right;
+}
+.youtube{
+    color: red;
+}
+.fraza1{
+    margin-left: 158px; 
+}
+.infa{
+    margin-right: 20px;
+}
+.zombi{
+    color: red;
+}
+.zombi span{
+    color: green;
+}
+.orange{
+    color:#FF4500;
+}
+.orange span{
+    color: lime;
+}
