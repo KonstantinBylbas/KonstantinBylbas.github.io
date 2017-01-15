@@ -22,6 +22,11 @@
     width: 42%;
     height: 42%;
     float: right;
+    opacity: 0.5;
+}
+.picture:hover{
+    opacity: 1;
+
 }
 .youtube{
     color: red;
