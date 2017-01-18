@@ -22,6 +22,8 @@
     width: 42%;
     height: 42%;
     float: right;
+    border: 2px solid black;
+    margin-left: 10px
 }
 .youtube{
     color: red;
@@ -43,4 +45,19 @@
 }
 .orange span{
     color: lime;
+}
+.nik{
+color: blue;
+margin-left: 925px;
+margin-right: 1900px;
+-webkit-transform: rotate(-90deg);
+transform: rotate(-90deg);
+-o-transform: rotate(-90deg);
+-moz-transform: rotate(-90deg);
+}
+.link{
+    color: red;
+}
+.link span{
+    color: black;
 }
