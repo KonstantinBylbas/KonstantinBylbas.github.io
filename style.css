@@ -44,3 +44,10 @@
 .orange span{
     color: lime;
 }
+.nik{
+color: blue;
+-webkit-transform: rotate(50.6deg);
+transform: rotate(50.6deg);
+-o-transform: rotate(50.6deg);
+-moz-transform: rotate(50.6deg);
+}
