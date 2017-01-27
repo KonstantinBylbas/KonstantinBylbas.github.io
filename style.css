@@ -23,16 +23,13 @@
     height: 42%;
     float: right;
     border: 2px solid black;
-    margin-left: 10px
+    margin-left: 25px;
 }
 .youtube{
     color: red;
 }
 .fraza1{
     margin-left: 158px; 
-}
-.infa{
-    margin-right: 20px;
 }
 .zombi{
     color: red;
@@ -60,4 +57,30 @@ transform: rotate(-90deg);
 }
 .link span{
     color: black;
+}
+.f18{
+    color: DeepSkyBlue;
+}
+.html{
+    text-align: right;
+}
+.html span{
+    color: darkred;
+    text-align: right;
+}    
+.picture3{
+    width: 3.5%;
+    float: right;
+}
+.picture4{
+    width: 5.7%;
+    float: right;
+}
+.picture5{
+    width: 3.5%;
+    float: right;
+}
+.picture6{
+    width: 4.6%;
+    float: right;
 }
