@@ -1,6 +1,7 @@
 .name{
     color:red;
     text-align: right;
+    font-family: 'Shojumaru', cursive;
 }
 .VK{
     color: blue;
@@ -11,6 +12,7 @@
 .ua{
     color: blue;
     float: left;
+    font-family: 'Audiowide', cursive;
 }
 .ua span{
     color:yellow;
@@ -43,15 +45,6 @@
 .orange span{
     color: lime;
 }
-.nik{
-color: blue;
-margin-left: 925px;
-margin-right: 1900px;
--webkit-transform: rotate(-90deg);
-transform: rotate(-90deg);
--o-transform: rotate(-90deg);
--moz-transform: rotate(-90deg);
-}
 .link{
     color: red;
 }
@@ -63,24 +56,74 @@ transform: rotate(-90deg);
 }
 .html{
     text-align: right;
+    font-family: 'Kaushan Script', cursive;
 }
 .html span{
     color: darkred;
-    text-align: right;
 }    
 .picture3{
-    width: 3.5%;
-    float: right;
+    width: 5.1%;
+    float: right; 
 }
 .picture4{
-    width: 5.7%;
+    width: 8.2%;
     float: right;
 }
 .picture5{
-    width: 3.5%;
+    width: 5.1%;
     float: right;
 }
 .picture6{
-    width: 4.6%;
+    width: 6.7%;
     float: right;
+}
+.picture7{
+    width: 10%;
+    float: right;
+}
+.picture8{
+    width: 4.2%;
+    float: right;
+}
+.obo{
+    font-family: 'Rock Salt', cursive;
+}
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.a1{
+    color: red;
+}
+.a2{
+    color: yellow;
+}
+.a3{
+    color: limegreen;
+}
+.a4{
+    color: orange;
+}
+.a5{
+    color: blue;
+}
+.a6{
+    color: yellow;
+}
+.a7{
+    color: limegreen;
+}
+.a8{
+    color: red;
+}
+.a9{
+    color: orange;
+}
+.a10{
+    color: blue;
+}
+.a11{
+    color: white;
+}
+.infa span{
+    font-size: 20px;
 }
