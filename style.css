@@ -6,32 +6,33 @@
 .name span{
     color:lime;
 }
-.VK{
-    color: blue;
-}
-.mail{
-    color: lime;
+.name1{
+    text-align: center;
 }
 .ua{
+    color: blue;
+    float: right;
+    font-family: 'Audiowide', cursive;
+}
+.ua span{
+    color:gold;
+}
+.ua1{
     color: blue;
     float: left;
     font-family: 'Audiowide', cursive;
 }
-.ua span{
-    color:yellow;
+.ua1 span{
+    color:gold;
 }
 .picture{
     width: 42%;
-    height: 42%;
     float: right;
     border: 2px solid black;
     margin-left: 25px;
 }
-.youtube{
-    color: red;
-}
 .fraza1{
-    margin-left: 158px; 
+    margin-left: 173px; 
 }
 .zombi{
     color: red;
@@ -106,28 +107,13 @@ body{
 .a5{
     color: blue;
 }
-.a6{
-    color: yellow;
-}
-.a7{
-    color: limegreen;
-}
-.a8{
-    color: red;
-}
-.a9{
-    color: orange;
-}
-.a10{
-    color: blue;
-}
 .a11{
     color: white;
 }
 .infa span{
-    font-size: 20px;
+    font-size: 28px;
 }
-.photo{
+.knopa{
  position: relative;
   display: inline-block;
   font-size: 97%;
@@ -156,83 +142,101 @@ a.button28:active {
    0 2px 3px rgba(0,0,0,.5) inset,
    0 1px 1px rgba(255,255,255,.1);
 }
-.photo a{
+.knopa a{
     color:white;
 }
 .title{
     color: black;
     text-align: center;    
     font-family: 'Rock Salt', cursive;
+    margin-right: 370px;
 }
-.picture100{
-    float: left;
-    width: 20%;
-    margin-left: 20px;
-    margin-right: 20px;
+.all{
     border: 3px solid black;
     box-shadow: 20px 20px 20px black;
-}
-.picture101{
     float: left;
+    margin-right: 20px;
+}
+.a100{
+    width: 20%;
+    margin-left: 20px;
+}
+.a200{
     width: 18.8%;
     margin-left: 20px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
 }
-.picture102{
-    float: left;
+.a300{
     width: 18.9%;
     margin-left: 20px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
 }
-.picture103{
-    float: left;
+.a400{
     width: 18.9%;
     margin-left: 60px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
 }
-.picture104{
-    float: left;
-    width: 18.9%;
-    margin-left: 20px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
+.череп{
+    float: right;
+    width: 27%;
 }
-.picture105{
-    float: left;
-    width: 18.9%;
-    margin-left: 60px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
+.vse{
+    text-align: left;
 }
-.picture106{
-    float: left;
-    width: 20%;
-    margin-left: 20px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
+.zagolovok{
+    text-align: center;
 }
-.picture107{
+.m1{
     float: left;
-    width: 20%;
-    margin-left: 20px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
+    margin-right: 800px;
 }
-.picture108{
-    float: left;
-    width: 18.9%;
-    margin-left: 20px;
-    margin-right: 20px;
-    border: 3px solid black;
-    box-shadow: 20px 20px 20px black;
+.trifoto{
+    margin-right: 70px;
+}
+.knopa1{
+  margin-top: 8px;
+  float: left;
+  position: relative;
+  display: inline-block;
+  font-size: 57%;
+  color: rgb(209,209,217);
+  text-decoration: none;
+  text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  padding: .5em 1em;
+  outline: none;
+  border-radius: 3px;
+  background: linear-gradient(rgb(110,112,120), rgb(81,81,86)) rgb(110,112,120);
+  box-shadow:
+   0 1px rgba(255,255,255,.2) inset,
+   0 3px 5px rgba(0,1,6,.5),
+   0 0 1px 1px rgba(0,1,6,.2);
+  transition: .2s ease-in-out;
+}
+a.button28:hover:not(:active) {
+  background: linear-gradient(rgb(126,126,134), rgb(70,71,76)) rgb(126,126,134);
+}
+a.button28:active {
+  top: 1px;
+  background: linear-gradient(rgb(76,77,82), rgb(56,57,62)) rgb(76,77,82);
+  box-shadow:
+   0 0 1px rgba(0,0,0,.5) inset,
+   0 2px 3px rgba(0,0,0,.5) inset,
+   0 1px 1px rgba(255,255,255,.1);
+}
+.knopa1 a{
+    color:white;
+}
+.title2{
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+}
+.art2{
+    width: 18%;
+}
+.art3{
+    width: 16.5%;
+}
+.art4{
+    width: 11.2%;
+    margin-right: 600px;
+}
+.knopa2{
+    margin-top: 20px;
 }
